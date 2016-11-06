@@ -11,4 +11,5 @@
 Ось силка на мій репозиторій в ньому я зробив зміни файлу list-of-users.txt та добавив новий .txt в папку everything/
 
 4.![Two screenshots of finishing 2 games](https://pp.vk.me/c637422/v637422230/1940e/18XayAZmzac.jpg)
+![](https://pp.vk.me/c637422/v637422230/19418/cWEqNrnrM5o.jpg)
 
