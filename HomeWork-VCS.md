@@ -1,8 +1,8 @@
 # VCS (git & github)
 
 1.Sync your forked repo with a base repository (https://github.com/cursor-education/welcome-to-github)
-Це завдання я виконав відіславши pull request на cursor-education/welcom-togithub.
-Я зробив зміни в файлі list-of-users.txt(додав своє ім'я); і створив новий файл в папці everything/
+Це завдання я виконав відіславши pull request на cursor-education/welcom-to-github.
+Я додав в папку personal/ папку зі своїм іменем та прізвищем і зробив там текстовий файл hello.txt.
 
 2.https://github.com/matveyz
 Це лінк на мій профіль, і я його вже скинув викладачеві і він мене додав до організації.
