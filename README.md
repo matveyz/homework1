@@ -28,5 +28,4 @@
 9.Спочатку я зробив репозиторій з назвою matveyz.github.io, склонував собі його на компьютер, зайшов в цю папку і зробив файл під назвою 
 index.html (в якому написано "Hello World") і завантажив його на сайт за допомогою консолі такими командами як git add .  git commit -m "" 
 git push origin master.Після цього я просто зайшов на ссилку https://matveyz.github.io/ і мені вибило "Hello world".Після цього я зробив новий репозиторій з назвою testing-the-github-pages, створив в ньому бренчу з назвою "gh-pages" і поставив її дефолтною бренчою в репозиторії через настройки.Після цього додав простий .txt файл з описом "hello my name is Chack" і комітнув та пушнув його на репозиторій.Потім перейшов по ссилці https://matveyz.github.io/testing-the-github-pages/ і ось результат.
-Перший репозиторій (https://github.com/matveyz/matveyz.github.io)
-Другий репозиторій (https://github.com/matveyz/testing-the-github-pages_)
+Перший репозиторій (https://github.com/matveyz/matveyz.github.io)Другий репозиторій (https://github.com/matveyz/testing-the-github-pages)
