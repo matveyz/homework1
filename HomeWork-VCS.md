@@ -2,7 +2,7 @@
 
 #1
 Sync your forked repo with a base repository (https://github.com/cursor-education/welcome-to-github)
-Це завдання я виконав відіславши pull request на cursor-education/welcom-to-github.
+Це завдання я виконав відіславши pull request на cursor-education/welcome-to-github.
 Я додав в папку personal/ папку зі своїм іменем та прізвищем і зробив там текстовий файл hello.txt.
 
 #2
