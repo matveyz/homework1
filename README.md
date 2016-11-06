@@ -10,5 +10,5 @@
 3.https://github.com/matveyz/welcome-to-github
 Ось силка на мій репозиторій в ньому я зробив зміни файлу list-of-users.txt та добавив новий .txt в папку everything/
 
-4.![Two screenshots of finishing 2 games](screenshots/Знімок екрана(56).png)
+4.![Two screenshots of finishing 2 games](https://pp.vk.me/c637422/v637422230/1940e/18XayAZmzac.jpg)
 
